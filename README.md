@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Ignacio
 ![](https://github.com/IgnaC02/IgnaC02/blob/main/Banner%20Github.png?raw=true)
 
-## About me
+## 👤About me
 I'm looking forward to my first experience working in the IT world.
 I'm passionate about new challenges, generate solutions, propose new ideas, and always trying to learn something new.
 
-### Tech Skills: 
+## ⚙️Tech Skills: 
 #### 🤓Javascript 
 #### 💻HTML5 | CSS3 | Bootstrap 
 #### ⚛️React.JS | Redux | Hooks 
@@ -13,6 +13,9 @@ I'm passionate about new challenges, generate solutions, propose new ideas, and 
 #### 📶PostgreSQL 
 #### 🐱Git | Github 
 #### 📝Adobe Xd
+
+## 📌Projects
+
 
 #### I’m currently working on Henry's final group project. 
 
