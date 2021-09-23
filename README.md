@@ -4,14 +4,14 @@
 I'm looking forward to my first experience working in the IT world.
 I'm passionate about new challenges, generate solutions, propose new ideas, and always trying to learn something new.
 
-##Tech Skills: 
-#🤓Javascript 
-#💻HTML5 | CSS3 | Bootstrap 
-#⚛️React.JS | Redux | Hooks 
-#🛠Node.JS | Express | Sequelize 
-#📶PostgreSQL 
-#🐱Git | Github 
-#📝Adobe Xd
+## Tech Skills: 
+# 🤓Javascript 
+# 💻HTML5 | CSS3 | Bootstrap 
+# ⚛️React.JS | Redux | Hooks 
+# 🛠Node.JS | Express | Sequelize 
+# 📶PostgreSQL 
+# 🐱Git | Github 
+# 📝Adobe Xd
 
 #I’m currently working on Henry's final group project. 
 
