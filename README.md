@@ -21,10 +21,7 @@
 ### Movie App
 <img src='https://github.com/IgnaC02/IgnaC02/blob/main/moviesHome.png' alt='PI_dogs' height='120'> <img src='https://github.com/IgnaC02/IgnaC02/blob/main/movieDetail.png' alt='PI_dogs' height='120'> <img src='https://github.com/IgnaC02/IgnaC02/blob/main/cuevana.png' alt='PI_dogs' height='120'>
 
-
-
-
-#### I’m currently working on Henry's final group project. 
+### I’m currently working on Henry's final group project. 
 
 ## 😁Contact me!
 #### You can contact me by sending me a message in my LinkedIn inbox.
