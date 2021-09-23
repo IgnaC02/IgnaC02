@@ -16,7 +16,7 @@
 
 ## 📌Projects
 ### Dog Api (Henry Project)
-<img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093705.png' alt='PI_dogs' height='120'> <img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093548.png' alt='PI_dogs' height='120'> <img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093629.png' alt='PI_dogs' height='120'> <img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093606.png' alt='PI_dogs' height='120'>
+<img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093705.png' alt='PI_dogs' height='100'> <img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093548.png' alt='PI_dogs' height='100'> <img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093629.png' alt='PI_dogs' height='100'> <img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093606.png' alt='PI_dogs' height='100'>
 
 ### Movie App
 <img src='https://github.com/IgnaC02/IgnaC02/blob/main/moviesHome.png' alt='PI_dogs' height='120'> <img src='https://github.com/IgnaC02/IgnaC02/blob/main/movieDetail.png' alt='PI_dogs' height='120'> <img src='https://github.com/IgnaC02/IgnaC02/blob/main/cuevana.png' alt='PI_dogs' height='120'>
