@@ -6,17 +6,19 @@ I'm passionate about new challenges, generate solutions, propose new ideas, and 
 
 ## Tech Skills: 
 #### 🤓Javascript 
-### 💻HTML5 | CSS3 | Bootstrap 
-### ⚛️React.JS | Redux | Hooks 
-### 🛠Node.JS | Express | Sequelize 
-### 📶PostgreSQL 
-### 🐱Git | Github 
-### 📝Adobe Xd
+#### 💻HTML5 | CSS3 | Bootstrap 
+#### ⚛️React.JS | Redux | Hooks 
+#### 🛠Node.JS | Express | Sequelize 
+#### 📶PostgreSQL 
+#### 🐱Git | Github 
+#### 📝Adobe Xd
 
-#I’m currently working on Henry's final group project. 
+# About me
+## I’m currently working on Henry's final group project. 
 
+# Contact me!
 You can contact me by sending me a message in my LinkedIn inbox.
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IgnaC02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ignacio-cañas-elies-dev/)  
+[<img src='https://user-images.githubusercontent.com/63696926/134504614-b8a2864f-4b83-4728-8880-5f6545037eff.png' alt='github' height='40'>](https://github.com/IgnaC02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ignacio-cañas-elies-dev/)  
 
 
 
