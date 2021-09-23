@@ -5,7 +5,7 @@ I'm looking forward to my first experience working in the IT world.
 I'm passionate about new challenges, generate solutions, propose new ideas, and always trying to learn something new.
 
 ## Tech Skills: 
-### 🤓Javascript 
+#### 🤓Javascript 
 ### 💻HTML5 | CSS3 | Bootstrap 
 ### ⚛️React.JS | Redux | Hooks 
 ### 🛠Node.JS | Express | Sequelize 
