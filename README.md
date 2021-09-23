@@ -15,11 +15,10 @@
 #### 📝Adobe Xd
 
 ## 📌Projects
-[<img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093548.png' alt='PI_dogs' height='20'>]
-[<img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093606.png' alt='PI_dogs' height='20'>]
-[<img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093629.png' alt='PI_dogs' height='20'>]
-[<img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093705.png' alt='PI_dogs' height='20'>]
-
+[<img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093705.png' alt='PI_dogs' height='50'>]
+[<img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093548.png' alt='PI_dogs' height='50'>]
+[<img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093629.png' alt='PI_dogs' height='50'>]
+[<img src='https://github.com/IgnaC02/IgnaC02/blob/main/Captura%20de%20pantalla%202021-09-23%20093606.png' alt='PI_dogs' height='50'>]
 #### I’m currently working on Henry's final group project. 
 
 ## 😁Contact me!
