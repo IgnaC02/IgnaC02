@@ -13,6 +13,9 @@
 #### 📶PostgreSQL 
 #### 🐱Git | Github 
 #### 📝Adobe Xd
+#### 📷Adobe Photoshop
+#### 📷Adobe Lightroom
+#### 🖍Adobe Illustrator
 
 ## 📌Projects
 ### Dog Api (Henry Project)
