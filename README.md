@@ -30,6 +30,7 @@
 ### I’m currently working on Henry's final group project. 
 
 ## 😁Contact me!
+#### Here you have my portfolio: https://ignacioce.netlify.app/
 #### You can contact me by sending me a message in my LinkedIn inbox or an e-mail: ignacanas2002@gmail.com .
 [<img src='https://user-images.githubusercontent.com/63696926/134504614-b8a2864f-4b83-4728-8880-5f6545037eff.png' alt='linkedin' height='20'>](https://www.linkedin.com/in/ignacio-cañas-elies-dev/)  [<img src='https://user-images.githubusercontent.com/63696926/134504937-351d5fde-72e9-4b67-a01e-e5ecf8d69aef.png' alt='github' height='20'>](https://github.com/IgnaC02)  
 
